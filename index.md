@@ -1,5 +1,5 @@
 ---
 title: Welcome to our lab
-date: since 2018
+date: 2018-09-01
 ---
 
